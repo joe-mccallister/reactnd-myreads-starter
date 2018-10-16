@@ -6,11 +6,14 @@ To run:
 - run `npm start` to start server and use the suggested search terms in SEARCH_TERMS.md
 
 
+## Acknowledgements
+uigradients.com for styling
+npmj.com for help with react-router installation
 
 
 
 
-
+<summary>
 ## Original ReadMe for Udacity Project
 # MyReads Project
 
@@ -109,3 +112,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
 For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+</summary>
