@@ -26,7 +26,7 @@ class SearchBooks extends Component {
             BooksAPI.search(query).then((searchedBooks) => {
                 if (searchedBooks.length > 0) {
                     searchedBooks = searchedBooks.filter((searchedBook) => searchedBook.imageLinks).map((searchedBook) => {
-                        for (let book of this.props.book) {
+                        for (let book of this.props.books) {
                             if (book.id === searchedBook.id) {
                                 searchedBook.shelf = book.shelf;
                                 return searchedBook
