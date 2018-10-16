@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) after refactoring code and largely completing the project before finding a need/desire to start a different way. Below is the original ReadMe from the course instructions, as well as instructions on how to run this application. 
 
+To run: 
+- Clone the repository
+- Run `npm install` for dependencies
+- run `npm start` to start server and use the suggested search terms in SEARCH_TERMS.md
+
+
 
 
 
