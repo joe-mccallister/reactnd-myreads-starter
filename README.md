@@ -7,8 +7,8 @@ To run:
 
 
 ## Acknowledgements
-uigradients.com for styling
-npmj.com for help with react-router installation
+- uigradients.com for styling
+- npmj.com for help with react-router installation
 
 
 
