@@ -14,7 +14,7 @@ npmj.com for help with react-router installation
 
 
 
-<details></details><summary>## Original ReadMe for Udacity Project</summary>
+<details><summary>## Original ReadMe for Udacity Project</summary>
 <p>
 
 # MyReads Project
