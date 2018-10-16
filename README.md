@@ -29,6 +29,11 @@ To get started developing right away:
 │   ├── favicon.ico # React Icon, You may change if you wish.
 │   └── index.html # DO NOT MODIFY
 └── src
+    ├── Components # Folder containing App components
+        ├── Book.js # Book component
+        ├── BookShelf.js # BookShelf component
+        ├── ListBooks.js # ListBooks component
+        └── SearchBooks.js # SearchBooks component
     ├── App.css # Styles for your app. Feel free to customize this as you desire.
     ├── App.js # This is the root of your app. Contains static HTML right now.
     ├── App.test.js # Used for testing. Provided with Create React App. Testing is encouraged, but not required.
